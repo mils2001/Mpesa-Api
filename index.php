@@ -6,3 +6,6 @@ echo "MPESA integration test successful!";
 echo "Hello";
 
 ?>
+<?php
+echo "Happy to start learning php!"
+?>
