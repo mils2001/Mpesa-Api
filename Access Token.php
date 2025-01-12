@@ -14,5 +14,6 @@ $result = curl_exec($curl);
 $status = curl_getinfo($curl, CURLINFO_HTTP_CODE);
 echo $result;
 curl_close($curl);
+?>
 
 
