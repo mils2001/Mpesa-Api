@@ -10,7 +10,7 @@ $Timestamp = date('YmdHis');
 // ENCRIPT  DATA TO GET PASSWORD
 $Password = base64_encode($BusinessShortCode . $passkey . $Timestamp);
 $phone = '254748778480';//phone number to receive the stk push
-$money = '100';
+$money = '1';
 $PartyA = $phone;
 $PartyB = '254748778480';
 $AccountReference = 'MOVFLIX';
